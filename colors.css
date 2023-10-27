@@ -1,0 +1,11 @@
+.background-primary {
+    background-color: var(--blue);
+}
+
+.u-c-blue {
+    color: var(--blue);
+}
+
+.u-c-orange {
+    color: var(--orange);
+}

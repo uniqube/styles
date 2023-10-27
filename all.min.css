@@ -1,0 +1,38 @@
+@import 'colors.css';
+@import 'fonts.css';
+@import url('sizes.css');
+
+:root {
+    /* Colors */
+    --blue : blue;
+    --grey : grey;
+    --lightgrey : #dcdcdc;
+    --black : black;
+    --white : white;
+    --yellow : yellow;
+    --orange : orange;
+    --light-green : limegreen;
+    --dark-green : green;
+    --red : red;
+    --purple : purple;
+    --skyblue : skyblue;
+
+
+    /* Fontsize */
+    --f1em : 1em;
+    --f2em : 2em;
+    --f3em : 3em;
+    --f4em : 4em;
+    --f5em : 5em;
+
+}
+
+/* .u-input {
+    padding: 10px 20px;
+    border-radius: 8px;
+    outline: none;
+    border: none;
+    background-color: var(--lightgrey);
+    color: var(--black);
+} */
+
